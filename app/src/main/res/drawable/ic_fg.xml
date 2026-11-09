@@ -1,0 +1,5 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- trăng lưỡi liềm + ngôi sao nhỏ -->
+    <path android:fillColor="#FFFFFF" android:pathData="M60,30 A24,24 0 1,0 60,78 A19,19 0 1,1 60,30 Z"/>
+    <path android:fillColor="#F2C14E" android:pathData="M66,44 L68.4,50.6 L75.4,50.8 L69.9,55.1 L71.9,61.8 L66,57.9 L60.1,61.8 L62.1,55.1 L56.6,50.8 L63.6,50.6 Z"/>
+</vector>
